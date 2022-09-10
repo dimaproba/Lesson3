@@ -1,0 +1,18 @@
+.block-3{
+   color: red;
+}
+.block-1{
+   color: blueviolet;
+}
+main .block-7{
+   color: blue;
+}
+.block-6 > p{
+   color: yellow;
+}
+.block-9 ~ div{
+   color: bisque;
+}
+footer *{
+   color: aquamarine;
+}
